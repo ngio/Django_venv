@@ -18,7 +18,8 @@ Ctrl + ` 을 눌러서 터미널 창을 열어줍니다.
 
 
 가상환경 생성 - 아래 코드를 터미널에 입력하면 python 자체적으로 가지고 있는 가상환경을 설치해줍니다.
-python -m venv venv
+
+    python -m venv  venv(원하는 가상환경 이름)
 
 
 (venv) D:\_py_django>./venv/Scripts/activate 
