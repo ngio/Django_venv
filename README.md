@@ -72,3 +72,5 @@ Ctrl + ` 을 눌러서 터미널 창을 열어줍니다.
 
 git pull origin main --rebase 대신 git pull origin main을 사용할 수도 있지만, --rebase가 병합 충돌을 더 깔끔하게 처리합니다.
 강제 푸시는 가능하면 지양하고, pull --rebase를 활용하는 것이 좋습니다.
+
+
